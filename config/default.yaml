@@ -1,0 +1,8 @@
+server:
+  port: 3000
+  host: 127.0.0.1
+
+db:
+  # uri: 'mongodb://mongo:27017/incident-management'
+  uri: 'mongodb://localhost:27017/incident-management'
+  secureConnection: false
